@@ -1,0 +1,19 @@
+{
+  "name": "jogo-da-forca",
+  "version": "1.0.0",
+  "description": "Jogo da forca em Node.js, executado via terminal, com categorias de palavras, sistema de dicas e ranking de pontuação.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "jogo",
+    "forca",
+    "hangman",
+    "terminal",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Luiz Gabriel Abreu Oliveira",
+  "license": "MIT"
+}
