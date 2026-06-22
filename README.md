@@ -1,8 +1,8 @@
-# 🎮 Jogo da Forca — Node.js
+#  Jogo da Forca — Node.js
 
 **Autor:** Luiz Gabriel Abreu Oliveira
 
-## 📖 Descrição do projeto
+##  Descrição do projeto
 
 Um jogo da forca clássico, executado inteiramente pelo terminal, desenvolvido em **JavaScript puro** com **Node.js**. O projeto não utiliza nenhuma biblioteca externa ou framework — apenas os módulos nativos `readline` e `fs`.
 
@@ -10,7 +10,7 @@ O jogador deve adivinhar uma palavra secreta, sorteada aleatoriamente entre dive
 
 ---
 
-## 📜 Regras do jogo
+##  Regras do jogo
 
 - No início, o jogador informa seu **nome**.
 - Uma **categoria** e uma **palavra** são sorteadas aleatoriamente.
@@ -25,7 +25,7 @@ O jogador deve adivinhar uma palavra secreta, sorteada aleatoriamente entre dive
 
 ---
 
-## 🎯 Como jogar
+##  Como jogar
 
 1. Digite seu nome quando solicitado.
 2. Observe a categoria, a palavra parcialmente revelada, as letras já tentadas e as tentativas restantes.
@@ -49,7 +49,7 @@ Tentativas restantes: 4
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### Pré-requisitos
 
@@ -84,7 +84,7 @@ Nenhuma biblioteca externa, framework ou TypeScript foi utilizado — apenas rec
 
 ---
 
-## 🗂️ Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 jogo-da-forca/
@@ -99,7 +99,7 @@ jogo-da-forca/
 
 ---
 
-## 🏆 Sistema de pontuação
+##  Sistema de pontuação
 
 - Vitória: pontuação base de **50 pontos**, mais **10 pontos** por cada tentativa restante.
 - Uso de dica: penalidade de **15 pontos** na pontuação da rodada.
@@ -108,12 +108,12 @@ jogo-da-forca/
 
 ---
 
-## 📚 Créditos / Fontes
+##  Créditos / Fontes
 
 Projeto desenvolvido como exercício de prática em **JavaScript** e **Node.js**, utilizando apenas recursos nativos da linguagem, sem bibliotecas externas.
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está licenciado sob os termos da licença **MIT** — veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
